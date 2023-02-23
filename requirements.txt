@@ -1,3 +1,4 @@
+dotenv
 millify
 streamlit
 web3
