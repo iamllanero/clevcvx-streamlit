@@ -1,4 +1,4 @@
-dotenv
 millify
+python-dotenv
 streamlit
 web3
